@@ -1,0 +1,8 @@
+git创建项目及上传到github
+git config -l 
+git init 
+git remote add origin https://github.com/zhongjiazhai/Project_test.git
+git status
+git add *
+git commit -m 'first-commit'
+git push -u origin master
