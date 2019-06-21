@@ -6,3 +6,9 @@ git status
 git add *
 git commit -m 'first-commit'
 git push -u origin master
+收藏（star）
+Repositories 仓库 /一个仓库对应一个项目
+forked 克隆 forked from zhansan fork的仓库独立存在，也就是复制和克隆项目。
+Pull Request 发送请求，
+
+
