@@ -8,7 +8,15 @@ git commit -m 'first-commit'
 git push -u origin master
 收藏（star）
 Repositories 仓库 /一个仓库对应一个项目
-forked 克隆 forked from zhansan fork的仓库独立存在，也就是复制和克隆项目。
-Pull Request 发送请求，
+fork 复制 克隆项目 forked from zhansan fork的仓库独立存在，也就是复制和克隆项目。
+Pull Request 发送请求。
+关注（Watch），关注项目，项目更新可以得到通知。
+issue 事物卡片
+GitHub 主页
+仓库主页
+个人主页
+
+
+
 
 
